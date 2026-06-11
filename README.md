@@ -145,7 +145,7 @@ POST /api/register
 ### Login User
 
 ```http
-POST /api/login
+POST /api/users
 ```
 
 ### Get All Users
